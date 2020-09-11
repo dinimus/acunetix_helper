@@ -2,7 +2,7 @@
 from core import ACUX
 import sys, time, os
 
-API_KEY = "api" # CHANGE_IT
+API_KEY = "api_key" # CHANGE_IT
 SERVER = "ip:3443" # CHANGE_IT
 
 if len(sys.argv) > 2:
