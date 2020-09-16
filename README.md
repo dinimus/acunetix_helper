@@ -1,5 +1,6 @@
 # acunetix_helper
 Scripts for auto-creating and running scans, reports downloading
+Change an API key and a server address before running the scripts.
 
 ## Auto-creating and running scans
 Feed the script a .txt file with a list of URLs of the sites to scan:
